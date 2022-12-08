@@ -1,0 +1,49 @@
+
+
+header{
+    position: fixed;
+    width: 100%;
+    background-color: #003049;
+    color: beige;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+header h1{
+    text-align: center;
+    
+}
+main{
+    width: 80%;
+    margin: auto;
+    position: static;
+    padding-top: 5em;
+}
+
+form{
+    text-align: center;
+    
+}
+
+#form{
+    position: fixed;
+    width: 30%;
+    top: 50%;
+    left: calc(50% - 15%);
+    background-color: #FCBF49;
+    
+    border: 3px solid #003049;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+button{
+    border: 3px solid #003049;
+    border-radius: 5px;
+    margin-bottom: 1em;
+}
+
+#pluszgomb{
+    margin-left: 80%;
+}
